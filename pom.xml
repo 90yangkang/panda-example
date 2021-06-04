@@ -56,6 +56,12 @@
                 <version>2.2.6</version>
             </dependency>
 
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>1.2.46</version>
+            </dependency>
+
             <!--commons-lang-->
             <dependency>
                 <groupId>commons-lang</groupId>
