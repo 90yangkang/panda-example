@@ -13,6 +13,7 @@
         <module>panda-example-api</module>
         <module>panda-example-service</module>
         <module>panda-example-common</module>
+        <module>panda-example-shardingjdbc</module>
     </modules>
 
     <properties>
